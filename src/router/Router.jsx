@@ -29,3 +29,4 @@ export const Router = () => {
     </BrowserRouter>
   );
 };
+//react-router-domのバージョン
